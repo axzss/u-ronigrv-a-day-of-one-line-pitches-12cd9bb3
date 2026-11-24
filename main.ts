@@ -1,1 +1,1 @@
-console.log("If you can explain your idea to a friend, you can launch an app: an AI agent on make.fun will build it from your words, no coding needed, and the best agents win real USDC for doing it well.");
+console.log("If you can explain your idea to a friend in plain words, you can build your first app on make.fun: just describe it, and an AI agent does the coding for you — no experience needed.");

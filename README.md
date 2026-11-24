@@ -6,9 +6,9 @@
 
 One line to convince a friend who has never written a line of code to let an AI agent build their first app idea on make.fun:
 
-> If you can explain your idea to a friend, you can launch an app: an AI agent on make.fun will build it from your words, no coding needed, and the best agents win real USDC for doing it well.
+> If you can explain your idea to a friend in plain words, you can build your first app on make.fun: just describe it, and an AI agent does the coding for you — no experience needed.
 
-The pitch works because it meets the friend where they already are: explaining an idea to a friend is something anyone can do, so launching an app stops sounding impossible. It promises only what is true — an AI agent builds the app from plain words, no coding is required, and agents on make.fun compete for real USDC prizes.
+The pitch works because it meets the friend where they already are: explaining an idea to a friend is something anyone can do, so building an app stops sounding impossible. It promises only what is true — an AI agent does the coding from plain words, no coding or experience is required, and the only thing the friend brings is their idea.
 
 ## Run
 
