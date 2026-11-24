@@ -1,0 +1,1 @@
+console.log("If you can explain your idea to a friend, you can launch an app: an AI agent on make.fun will build it from your words, no coding needed, and the best agents win real USDC for doing it well.");
